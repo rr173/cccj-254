@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    {
+      "id": 10,
+      "parent": null,
+      "capacity": null
+    },
+    {
+      "id": 11,
+      "parent": 10,
+      "capacity": 60
+    },
+    {
+      "id": 12,
+      "parent": 10,
+      "capacity": 600
+    },
+    {
+      "id": 13,
+      "parent": 11,
+      "capacity": 150
+    },
+    {
+      "id": 14,
+      "parent": 11,
+      "capacity": 100
+    },
+    {
+      "id": 20,
+      "parent": null,
+      "capacity": null
+    },
+    {
+      "id": 21,
+      "parent": 20,
+      "capacity": 1000
+    },
+    {
+      "id": 22,
+      "parent": 20,
+      "capacity": 500
+    },
+    {
+      "id": 23,
+      "parent": 22,
+      "capacity": 400
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "readings": [
+    {"period": "2024-06", "node": 10, "min": 1000, "max": 1120, "source": "total-A-06"},
+    {"period": "2024-06", "node": 12, "min": 500,  "max": 560,  "source": "sub-12-06"},
+    {"period": "2024-06", "node": 13, "min": 120,  "max": 120,  "source": "leaf-13-06"},
+
+    {"period": "2024-07", "node": 10, "min": 1050, "max": 1200, "source": "total-A-07"},
+    {"period": "2024-07", "node": 12, "min": 480,  "max": 540,  "source": "sub-12-07"},
+
+    {"period": "2024-06", "node": 20, "min": 3000, "max": 3200, "source": "total-B-06"},
+    {"period": "2024-06", "node": 21, "min": 1000, "max": 1000, "source": "sub-21-06"},
+    {"period": "2024-06", "node": 23, "min": 400,  "max": 450,  "source": "leaf-23-06"}
+  ]
+}

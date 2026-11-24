@@ -1,0 +1,8 @@
+{
+  "register": "register.json",
+  "readings": "readings.json",
+  "queries": [
+    {"name": "both-subtrees", "period": "2024-07", "nodes": [1, 2]},
+    {"name": "sites-1-and-2-union", "period": "2024-07", "nodes": [1, 3, 4, 2]}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "register": "register.json",
+  "readings": "readings.json",
+  "queries": [
+    {"name": "may-leaf-32", "period": "2024-05", "nodes": [32]}
+  ]
+}

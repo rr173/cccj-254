@@ -1,0 +1,46 @@
+{
+  "readings": [
+    {
+      "period": "2024-07",
+      "node": 0,
+      "min": 900,
+      "max": 1000,
+      "source": "main-meter"
+    },
+    {
+      "period": "2024-07",
+      "node": 2,
+      "min": 400,
+      "max": 480,
+      "source": "sub-meter-2"
+    },
+    {
+      "period": "2024-07",
+      "node": 5,
+      "min": 300,
+      "max": 300,
+      "source": "sub-meter-5"
+    },
+    {
+      "period": "2024-07",
+      "node": 6,
+      "min": 90,
+      "max": 120,
+      "source": "leaf-6"
+    },
+    {
+      "period": "2024-07",
+      "node": 7,
+      "min": 120,
+      "max": 160,
+      "source": "main-meter-B"
+    },
+    {
+      "period": "2024-07",
+      "node": 8,
+      "min": 120,
+      "max": 120,
+      "source": "leaf-8"
+    }
+  ]
+}

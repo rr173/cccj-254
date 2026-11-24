@@ -1,0 +1,8 @@
+{
+  "register": "register.json",
+  "readings": "readings.json",
+  "queries": [
+    {"name": "june-two-sites", "period": "2024-06", "nodes": [11, 22]},
+    {"name": "july-unread-leaf", "period": "2024-07", "nodes": [13]}
+  ]
+}

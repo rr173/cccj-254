@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": 30,
+      "parent": null,
+      "capacity": 0
+    },
+    {
+      "id": 31,
+      "parent": 30,
+      "capacity": 40
+    },
+    {
+      "id": 32,
+      "parent": 30,
+      "capacity": 180
+    },
+    {
+      "id": 33,
+      "parent": 31,
+      "capacity": 30
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "readings": [
+    {"period": "2024-05", "node": 30, "min": 200, "max": 260, "source": "total-30-05"},
+    {"period": "2024-05", "node": 31, "min": 150, "max": 150, "source": "sub-31-05"},
+    {"period": "2024-05", "node": 32, "min": 150, "max": 150, "source": "sub-32-05"}
+  ]
+}
